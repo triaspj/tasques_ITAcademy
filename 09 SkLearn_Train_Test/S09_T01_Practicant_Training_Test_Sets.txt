@@ -1,0 +1,1 @@
+https://github.com/triaspj/tasques_ITAcademy/tree/main/09%20SkLearn_Train_Test
